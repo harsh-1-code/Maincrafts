@@ -1,3 +1,4 @@
+<img width="1138" height="828" alt="Screenshot 2026-05-17 at 8 37 46 PM" src="https://github.com/user-attachments/assets/137292ad-5866-449b-9e77-e526f1921ba0" />
 # Maincrafts
 gain hands-on experience, develop industry-relevant skills, and complete real-world tasks related to your domain.
 # User Management Web Application - Task 1
